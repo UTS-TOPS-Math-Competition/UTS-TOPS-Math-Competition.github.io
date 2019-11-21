@@ -31,6 +31,14 @@ logo: "/images/UTMC-logo1.png"
 navigation_header:
 - title: Home
   url: /
+- title: Information
+  url: /info/
+- title: Archive
+  url: /archive/
+- title: About
+  url: /about/
+- title: Register
+  url: /register/
 
 # Footer nav
 navigation_footer:

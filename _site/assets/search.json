@@ -9,10 +9,17 @@
   
   
   {
-    "title": "About this website",
+    "title": "About",
     "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n\n",
+    "content": "Not sure what to put on this page yet\n",
     "url": "/about/"
+  },
+  
+  {
+    "title": "Archive",
+    "excerpt": "\n",
+    "content": "Here, you will find past UTMC contests to use for practice. There aren’t any yet, since this is the very first year of UTMC.\n",
+    "url": "/archive/"
   },
   
   {
@@ -27,6 +34,20 @@
     "excerpt": "\n",
     "content": " Hello World! \n",
     "url": "/index2/"
+  },
+  
+  {
+    "title": "Information",
+    "excerpt": "\n",
+    "content": "The UTS-TOPS Math Competition is a contest for high school students organized by UTS and TOPS.\nMore info to come later.\n",
+    "url": "/info/"
+  },
+  
+  {
+    "title": "Register",
+    "excerpt": "\n",
+    "content": "Registration isn’t open yet, come back later!\n",
+    "url": "/register/"
   }
   
 ]
