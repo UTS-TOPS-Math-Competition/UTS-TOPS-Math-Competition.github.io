@@ -3,6 +3,18 @@ title: false
 styles: true
 ---
 
+
+// Background colours
+$accentColour: #00b8d4 !default;
+
+// Text colours
+$headingColour: #002426 !default;
+$bodyColour: #00363a !default;
+$linkColour: #00b8d4 !default;
+$hoverColour: #0088a3 !default;
+$focusColour: #ff5722 !default;
+
+
 @import "alembic";
 
 
@@ -26,8 +38,19 @@ styles: true
 }
 
 .logo {
-  max-height: 4rem;
+  max-height: 3rem;
   img {
-	max-height: 4rem;
+	max-height: 3rem;
+  }
+}
+
+.item {
+  &--current {
+	a {
+	  color: $linkColour;
+	}
+    a:hover, a:active, a:focus {
+	  color: $hoverColour;
+    }
   }
 }

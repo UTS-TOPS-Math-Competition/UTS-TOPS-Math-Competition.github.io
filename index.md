@@ -1,5 +1,4 @@
 ---
-layout: page
 feature_text: |
   # UTMC
   ## A math contest organized by UTS and TOPS students
