@@ -1646,3 +1646,21 @@ pre code {
 .typeset pre {
   white-space: pre;
   overflow-x: scroll; }
+
+.feature .container {
+  min-height: 90vh; }
+.feature h1, .feature h2, .feature h3, .feature h4, .feature h5, .feature h6, .feature p {
+  color: #ffffff; }
+.feature h1 {
+  font-size: 5rem;
+  margin-bottom: 0.5rem;
+  padding-top: 0.5rem; }
+.feature h2 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  padding-top: 0.5rem; }
+
+.logo {
+  max-height: 4rem; }
+  .logo img {
+    max-height: 4rem; }
