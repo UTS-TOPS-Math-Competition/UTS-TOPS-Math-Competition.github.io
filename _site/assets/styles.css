@@ -1544,7 +1544,7 @@ textarea:focus,
 textarea:hover:focus,
 select:focus,
 select:hover:focus {
-  outline: solid 0.12rem #ff5722;
+  outline: solid 0.12rem #0088a3;
   outline-offset: -.12rem; }
 
 a:hover:focus {
@@ -1648,16 +1648,18 @@ pre code {
   overflow-x: scroll; }
 
 .feature .container {
-  min-height: 90vh; }
+  min-height: 90vh;
+  max-width: 90%;
+  width: 90%; }
 .feature h1, .feature h2, .feature h3, .feature h4, .feature h5, .feature h6, .feature p {
   color: #ffffff; }
 .feature h1 {
   font-size: 5rem;
   margin-bottom: 0.5rem;
-  padding-top: 0.5rem; }
+  padding-top: 1rem; }
 .feature h2 {
   font-size: 1.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.5rem;
   padding-top: 0.5rem; }
 
 .logo {
@@ -1669,3 +1671,16 @@ pre code {
   color: #00b8d4; }
 .item--current a:hover, .item--current a:active, .item--current a:focus {
   color: #0088a3; }
+
+.home-buttons .mdl-button {
+  line-height: 1.2;
+  min-width: 120px;
+  margin: 5px 5px;
+  height: 40px; }
+.home-buttons a:focus, .home-buttons a:hover:focus, .home-buttons button:focus, .home-buttons button:hover:focus {
+  outline: none;
+  box-shadow: inset 0 0 0 2rem rgba(0, 0, 0, 0.15); }
+
+.mdl-button {
+  text-transform: none;
+  font-size: 16px; }

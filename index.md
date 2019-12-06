@@ -1,7 +1,13 @@
 ---
-feature_text: |
-  # UTMC
-  ## A math contest organized by UTS and TOPS students
+feature_text:
+  <h1> UTMC </h1>
+  <h2> A math contest organized by UTS and TOPS students </h2>
+home_page: true
+feature_buttons:
+  - text: "Learn More"
+    link: "/info/"
+  - text: "Sign Up!"
+    link: "/register/"
 feature_image: "/images/GeometricGradientBlueGreen.jpg"
 ---
 
@@ -10,6 +16,25 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
 ## Features
+<div>
+<a href="https://github.com" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" style="border-radius: 1000px;">
+  Buttonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+</a>
+</div>
+
+<div style="padding: 10px;">
+<a href="https://github.com" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--colored" style="border-radius: 1000px; border: 2px solid #ff5722; height: auto;">
+  Buttonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+</a>
+</div>
+
+<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--colored"> 
+  Buttonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+</button>
+
+<button class="mdl-button mdl-js-button mdl-js-ripple-effect"> 
+  Buttonnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+</button>
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Simple and elegant design that can be used out of the box or as solid starting point

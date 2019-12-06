@@ -5,15 +5,17 @@ styles: true
 
 
 // Background colours
-$accentColour: #00b8d4 !default;
+$accentColour: #00b8d4;
 
 // Text colours
-$headingColour: #002426 !default;
-$bodyColour: #00363a !default;
-$linkColour: #00b8d4 !default;
-$hoverColour: #0088a3 !default;
-$focusColour: #ff5722 !default;
+$headingColour: #002426;
+$bodyColour: #00363a;
+$linkColour: #00b8d4;
+$hoverColour: #0088a3;
+$focusColour: #0088a3;
 
+// $mdc-button-filled-accessible($container-fill-color): #00b8d4 !default;
+$mdl-deep-orange: #ff5722;
 
 @import "alembic";
 
@@ -21,6 +23,8 @@ $focusColour: #ff5722 !default;
 .feature {
   .container {
     min-height: 90vh;
+	max-width: 90%;
+	width: 90%;
   }
   h1, h2, h3, h4, h5, h6, p {
 	color: $white;
@@ -28,11 +32,11 @@ $focusColour: #ff5722 !default;
   h1 {
 	font-size: 5rem;
 	margin-bottom: 0.5rem;
-	padding-top: 0.5rem;
+	padding-top: 1rem;
   }
   h2 {
 	font-size: 1.5rem;
-	margin-bottom: 2rem;
+	margin-bottom: 0.5rem;
 	padding-top: 0.5rem;
   }
 }
@@ -54,3 +58,37 @@ $focusColour: #ff5722 !default;
     }
   }
 }
+
+.home-buttons {
+  .mdl-button {
+	line-height: 1.2;
+	min-width: 120px;
+	margin: 5px 5px;
+	height: 40px;
+  }
+  a:focus, a:hover:focus, button:focus, button:hover:focus {
+	outline: none;
+	box-shadow: inset 0 0 0 2rem rgba(0, 0, 0, 0.15);
+  }
+}
+
+.mdl-button {
+  text-transform: none;
+  font-size: 16px;
+}
+
+a:focus, a:hover:focus,
+button:focus,
+button:hover:focus,
+.button:focus,
+.button:hover:focus,
+input:focus,
+input:hover:focus,
+textarea:focus,
+textarea:hover:focus,
+select:focus,
+select:hover:focus {
+  //box-shadow: 0 0 0 2px $focusColour;
+  //outline: none;
+}
+
