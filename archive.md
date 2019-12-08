@@ -2,4 +2,6 @@
 title: Archive
 ---
 
-Here, you will find past UTMC contests to use for practice. There aren't any yet, since this is the very first year of UTMC.
+UTMC 2020 will be the first ever UTMC! This means there aren't any past contests yet, but you can use these sample questions as practice:
+
+[insert link to sample question pdf]

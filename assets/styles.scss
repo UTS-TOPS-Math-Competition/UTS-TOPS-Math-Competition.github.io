@@ -3,19 +3,13 @@ title: false
 styles: true
 ---
 
-
-// Background colours
 $accentColour: #00b8d4;
-
-// Text colours
-$headingColour: #002426;
-$bodyColour: #00363a;
-$linkColour: #00b8d4;
-$hoverColour: #0088a3;
-$focusColour: #0088a3;
-
-// $mdc-button-filled-accessible($container-fill-color): #00b8d4 !default;
-$mdl-deep-orange: #ff5722;
+$backgroundColour: #f0f0f0;
+$headingColour: #202020;
+$bodyColour: #404040;
+$linkColour: #ff5722;
+$hoverColour: #c41c00;
+$focusColour: #ff5722;
 
 @import "alembic";
 

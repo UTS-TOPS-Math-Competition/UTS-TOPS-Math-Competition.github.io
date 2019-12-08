@@ -25,7 +25,7 @@ baseurl: ''
 title: 'UTMC'
 description: 'UTS-TOPS Math Competition'
 permalink: pretty
-logo: "/images/UTMC-logo1.png"
+logo: "/images/UTMC-Navy-Cropped.png"
 
 # Header nav
 navigation_header:
@@ -35,8 +35,8 @@ navigation_header:
   url: /info/
 - title: Archive
   url: /archive/
-- title: About
-  url: /about/
+- title: Staff
+  url: /staff/
 - title: Register
   url: /register/
 

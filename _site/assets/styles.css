@@ -438,21 +438,21 @@ body {
       font-size: 1.1578947368rem; } }
 
 a {
-  color: #00b8d4;
+  color: #ff5722;
   text-decoration: none;
   transition: color .1s, background-color .1s; }
   a:hover, a:active, a:focus {
-    color: #0088a3;
+    color: #c41c00;
     text-decoration: none; }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00b8d4 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #ff5722 50%);
   background-position: 0 93%;
   background-repeat: repeat-x;
   background-size: 100% 0.15rem;
-  text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff; }
+  text-shadow: 0.1rem 0 #f0f0f0, 0.15rem 0 #f0f0f0, -0.1rem 0 #f0f0f0, -0.15rem 0 #f0f0f0; }
   .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #0088a3 50%); }
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #c41c00 50%); }
 .typeset p {
   line-height: 2rem;
   margin-bottom: 1.49999rem;
@@ -475,7 +475,7 @@ a {
       margin-bottom: 1.4342005263rem;
       padding-top: 0.5657994737rem; } }
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
-  color: #002426;
+  color: #202020;
   font-family: "Merriweather", serif;
   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
   font-style: normal;
@@ -822,7 +822,7 @@ a {
 .typeset .delta + .caption, .typeset .epsilon + .caption, .typeset .zeta + .caption {
   margin-top: 0rem; }
 .typeset blockquote p {
-  border-left: 0.15rem solid #00b8d4;
+  border-left: 0.15rem solid #ff5722;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -1163,8 +1163,8 @@ a {
 
 /* Literal.Number.Integer.Long */
 body {
-  background: #ffffff;
-  color: #00363a;
+  background: #f0f0f0;
+  color: #404040;
   height: 100%;
   display: flex;
   -webkit-box-direction: normal;
@@ -1277,12 +1277,12 @@ body {
   display: inline-block; }
 
 .footer {
-  background: #002426;
+  background: #202020;
   color: #a8adac; }
   .footer a {
     color: #a8adac; }
     .footer a:hover {
-      color: #ffffff; }
+      color: #f0f0f0; }
   .footer .container {
     -webkit-flex-wrap: wrap;
     -moz-flex-wrap: wrap;
@@ -1504,7 +1504,7 @@ button,
 .button {
   cursor: pointer;
   display: inline-block;
-  color: #ffffff;
+  color: #f0f0f0;
   background: #00b8d4;
   transition: box-shadow .1s;
   will-change: box-shadow;
@@ -1522,7 +1522,7 @@ button,
 
 .button--nav {
   background: none;
-  color: #00b8d4;
+  color: #ff5722;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem; }
@@ -1531,7 +1531,7 @@ button,
       display: none; } }
   .button--nav:hover, .button--nav:focus {
     box-shadow: none;
-    color: #0088a3; }
+    color: #c41c00; }
 
 a:focus, a:hover:focus,
 button:focus,
@@ -1544,7 +1544,7 @@ textarea:focus,
 textarea:hover:focus,
 select:focus,
 select:hover:focus {
-  outline: solid 0.12rem #0088a3;
+  outline: solid 0.12rem #ff5722;
   outline-offset: -.12rem; }
 
 a:hover:focus {
@@ -1564,7 +1564,7 @@ select {
   input[type="color"]:hover,
   textarea:hover,
   select:hover {
-    border-color: #00363a; }
+    border-color: #404040; }
 
 select {
   background: #fafafa; }
@@ -1595,7 +1595,7 @@ label {
 
 code {
   padding: .12rem .2rem;
-  color: #002426; }
+  color: #202020; }
 
 pre code {
   padding: 0; }
@@ -1616,8 +1616,8 @@ pre code {
   opacity: 0.5; }
 
 ::selection {
-  background: #002426;
-  color: #ffffff;
+  background: #202020;
+  color: #f0f0f0;
   text-shadow: none; }
 
 .typeset a > code {
@@ -1626,13 +1626,13 @@ pre code {
 .typeset button {
   background-image: none;
   text-shadow: none;
-  color: #ffffff; }
+  color: #f0f0f0; }
   .typeset .button:hover, .typeset .button:active, .typeset .button:focus,
   .typeset button:hover,
   .typeset button:active,
   .typeset button:focus {
     background-image: none;
-    color: #ffffff; }
+    color: #f0f0f0; }
 .typeset hr {
   width: 100%; }
 .typeset li > p {
@@ -1668,9 +1668,9 @@ pre code {
     max-height: 3rem; }
 
 .item--current a {
-  color: #00b8d4; }
+  color: #ff5722; }
 .item--current a:hover, .item--current a:active, .item--current a:focus {
-  color: #0088a3; }
+  color: #c41c00; }
 
 .home-buttons .mdl-button {
   line-height: 1.2;

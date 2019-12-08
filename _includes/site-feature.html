@@ -12,28 +12,8 @@
       {{ feature_text | markdownify }}
 		
 	  {% if page.home_page %}
-	  <div class="home-buttons">
-	  <a href="/register/" style="display: inline-block;">
-		  <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect">
-			  Sign up!
-		  </button>
-	  </a>
-	  <a href="/info/" style="display: inline-block;">
-		  <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect"
-			  style="border: 3px solid #ff5722;">
-			  Learn more
-		  </button>
-	  </a>
-	  </div>
+		{% include cta-buttons.html %}
 	  {% endif %}
-
-	  <!--
-	  {% if page.feature_buttons %}
-		{% for button in page.feature_buttons %}
-		  {% include button.html text=button.text link=button.link %}
-		{% endfor %}
-	  {% endif %}
-	  -->
-    </div>
+	</div>
   </div>
 {% endif %}

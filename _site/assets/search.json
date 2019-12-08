@@ -18,21 +18,28 @@
   {
     "title": "Archive",
     "excerpt": "\n",
-    "content": "Here, you will find past UTMC contests to use for practice. There aren’t any yet, since this is the very first year of UTMC.\n",
+    "content": "UTMC 2020 will be the first ever UTMC! This means there aren’t any past contests yet, but you can use these sample questions as practice:\n\n[insert link to sample question pdf]\n",
     "url": "/archive/"
   },
   
   {
     "title": "Information",
     "excerpt": "\n",
-    "content": "The UTS-TOPS Math Competition is a contest for high school students organized by UTS and TOPS.\nMore info to come later.\n",
+    "content": "UTMC is a team math competition for high school students in the GTA.\n\nRules\n\n",
     "url": "/info/"
+  },
+  
+  {
+    "title": "Registration",
+    "excerpt": "\n",
+    "content": " Hi \n\n",
+    "url": "/reg2/"
   },
   
   {
     "title": "Register",
     "excerpt": "\n",
-    "content": "Registration isn’t open yet, come back later!\n",
+    "content": "\n\n\n",
     "url": "/register/"
   }
   
