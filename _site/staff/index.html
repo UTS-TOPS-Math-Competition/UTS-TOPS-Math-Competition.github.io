@@ -117,6 +117,11 @@
         <a href="/staff/">Staff</a>
       </li>
     
+
+	<li class="item item--nav">
+	  <a href="https://utmc.typeform.com/to/mHTwSg" target="_blank">Register</a>
+
+	</li>
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
@@ -129,7 +134,6 @@
   // Get list and button
   const navList = document.querySelector('.header .list--nav')
   const button  = document.querySelector('.header .button--nav')
-
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
@@ -137,7 +141,6 @@
     } else {
       navList.removeAttribute('style')
     }
-
     button.onclick = () => {
       navList.style.setProperty('transition', `margin .1s`)
       if (navList.style.getPropertyValue('--listHeight')) {
@@ -147,9 +150,7 @@
       }
     }
   }
-
   collapseNav()
-
   // Check on resize if to collapse nav
   window.addEventListener('resize', () => {
     collapseNav()
@@ -176,7 +177,33 @@
 
     <h1 id="meet-the-team">Meet The Team</h1>
 
-<p>[list of staff with corresponding blurb and picture]</p>
+<h3 id="head-organizer">Head Organizer</h3>
+<ul>
+  <li>Eric Shen</li>
+</ul>
+
+<h3 id="organizing--outreach-team">Organizing / Outreach Team</h3>
+<ul>
+  <li>Andrew Liang</li>
+  <li>Anna Krokhine</li>
+  <li>Daniel Yang</li>
+  <li>Ray Chen</li>
+  <li>Simhon Chourasia</li>
+</ul>
+
+<h3 id="problem-creation-and-selection-committee">Problem Creation and Selection Committee</h3>
+<ul>
+  <li>Daniel Yang</li>
+  <li>David Tang</li>
+  <li>Ethan Liu</li>
+  <li>Howard Halim</li>
+  <li>Michael Li</li>
+</ul>
+
+<h3 id="webmaster">Webmaster</h3>
+<ul>
+  <li>Howard Halim</li>
+</ul>
 
 
   </article>

@@ -117,6 +117,11 @@
         <a href="/staff/">Staff</a>
       </li>
     
+
+	<li class="item item--nav">
+	  <a href="https://utmc.typeform.com/to/mHTwSg" target="_blank">Register</a>
+
+	</li>
   </ul>
   <button class="button  button--nav" aria-label="Menu toggle">
     <svg width="16" height="16" class="icon  icon--nav" role="img" alt="Menu"><title>Menu</title><use xlink:href="#nav" fill="CurrentColor"></use></svg>
@@ -129,7 +134,6 @@
   // Get list and button
   const navList = document.querySelector('.header .list--nav')
   const button  = document.querySelector('.header .button--nav')
-
   // Hide nav and apply toggle
   const collapseNav = () => {
     if (document.body.clientWidth < 640) {
@@ -137,7 +141,6 @@
     } else {
       navList.removeAttribute('style')
     }
-
     button.onclick = () => {
       navList.style.setProperty('transition', `margin .1s`)
       if (navList.style.getPropertyValue('--listHeight')) {
@@ -147,9 +150,7 @@
       }
     }
   }
-
   collapseNav()
-
   // Check on resize if to collapse nav
   window.addEventListener('resize', () => {
     collapseNav()
@@ -171,14 +172,15 @@
 		
 	  
 		<div class="home-buttons">
-	<a href="https://utmc.typeform.com/to/mHTwSg" style="display: inline-block;">
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect">
+  <a href="https://utmc.typeform.com/to/mHTwSg" style="display: inline-block;">
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored
+		mdl-js-ripple-effect" style="border-radius: 1000px;">
 	  Sign up!
     </button>
   </a>
   <a href="#about" style="display: inline-block;">
     <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect"
-	  style="border: 3px solid #ff5722;">
+	  style="border: 2px solid white; border-radius: 1000px;">
 	  Learn more
     </button>
   </a>
