@@ -23,6 +23,13 @@
   },
   
   {
+    "title": "Contact",
+    "excerpt": "\n",
+    "content": "Got any questions? Send us an email at utmcstaff@gmail.com.\n",
+    "url": "/contact/"
+  },
+  
+  {
     "title": "Information",
     "excerpt": "\n",
     "content": "UTMC is a team math competition for high school students in the GTA.\n\nThere will be free food and prizes!\n\n[insert date, time, location, map]\n[move this to bottom of home page? (as well as “Learn more” link]\n\nRules\n\n",
@@ -41,6 +48,13 @@
     "excerpt": "\n",
     "content": "\n\n\n",
     "url": "/register/"
+  },
+  
+  {
+    "title": "Competition Rules",
+    "excerpt": "\n",
+    "content": "The competition consists of 4 rounds: Numerical, Geometry, Team, and Marathon.\n\nNumerical Round\n\n[numerical rules]\n\nGeometry Round\n\n[geo rules]\n\nTeam Round\n\n[team rules]\n\nMarathon Round\n\n[marathon rules]\n\n",
+    "url": "/rules/"
   },
   
   {

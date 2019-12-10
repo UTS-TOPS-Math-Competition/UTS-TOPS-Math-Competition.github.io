@@ -26,21 +26,17 @@ title: 'UTMC'
 description: 'UTS-TOPS Math Competition'
 permalink: pretty
 logo: "/images/UTMC-Navy-Cropped.png"
+reg-link: "https://utmc.typeform.com/to/mHTwSg"
+email: "utmcstaff@gmail.com"
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: Information
-  url: /info/
+- title: Rules
+  url: /rules/
 - title: Archive
   url: /archive/
 - title: Staff
   url: /staff/
-- title: Register
-  url: /register/
 
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
