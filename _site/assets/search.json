@@ -25,7 +25,7 @@
   {
     "title": "Information",
     "excerpt": "\n",
-    "content": "UTMC is a team math competition for high school students in the GTA.\n\nRules\n\n",
+    "content": "UTMC is a team math competition for high school students in the GTA.\n\nThere will be free food and prizes!\n\n[insert date, time, location, map]\n[move this to bottom of home page? (as well as “Learn more” link]\n\nRules\n\n",
     "url": "/info/"
   },
   
@@ -41,6 +41,20 @@
     "excerpt": "\n",
     "content": "\n\n\n",
     "url": "/register/"
+  },
+  
+  {
+    "title": "Test Page",
+    "excerpt": "\n",
+    "content": "My favourite food\n\nI like Pizza and Donuts.\n\nMy favourite website is this website\n",
+    "url": "/test/"
+  },
+  
+  {
+    "title": "Test Page",
+    "excerpt": "\n",
+    "content": "My favourite food\nI like Pizza and Donuts.\n\nMy favourite website is here\n",
+    "url": "/test2/"
   }
   
 ]
