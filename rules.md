@@ -33,7 +33,7 @@ As the name implies, your entire team will be doing this round together. There a
 
 ### Marathon Round
 The Marathon Round is also done as a team. There will be **10 sets of 3 questions**, which
-your team solves sequentially (one set at a time). You'll have a total of **90 minutes** to
+your team solves sequentially (one set at a time). You'll have a total of **80 minutes** to
 complete this round.
 
 [add explanation of lock mechanism here]
