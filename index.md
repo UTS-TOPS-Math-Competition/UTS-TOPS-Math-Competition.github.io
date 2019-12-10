@@ -25,6 +25,6 @@ The contest is open to everyone, and participation is free, so
 {% include reg-link.html text="sign up" %} now! Food will be provided, as well as over $100
 in prizes for the top contestants.
 
-UTMC 2020 will be held on **Saturday, February 22**, at UTS - 30 Humbert Street.
+UTMC 2020 will be held on **Saturday, February 22**, at UTS: **371 Bloor Street West**.
 
 {% include map.html id="1IsQKKzyZLEvZx5O9erownwUhrZQIS5Oe" %}
