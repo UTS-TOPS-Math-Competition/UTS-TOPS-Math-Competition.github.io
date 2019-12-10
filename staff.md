@@ -1,7 +1,6 @@
 ---
+title: Meet The Team
 ---
-
-# Meet The Team
 
 ### Head Organizer
 - Eric Shen
