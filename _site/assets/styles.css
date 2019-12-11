@@ -479,7 +479,7 @@ a {
   font-family: Lato, serif;
   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
   font-style: normal;
-  font-weight: 400; }
+  font-weight: 700; }
 .typeset h1, .typeset .alpha {
   line-height: 3rem;
   font-size: 2.3333333333rem;
@@ -714,7 +714,7 @@ a {
       .typeset dl dt, .typeset dl dd {
         margin-left: 0; } }
   .typeset dl dt {
-    font-weight: 400; }
+    font-weight: 700; }
   .typeset dl dd + dt {
     padding-top: 1rem; }
 .typeset table {
@@ -774,7 +774,7 @@ a {
         margin-bottom: -0.5657994737rem;
         padding-top: 0.5657994737rem; } }
 .typeset b, .typeset strong, .typeset .bold {
-  font-weight: 400; }
+  font-weight: 700; }
 .typeset em, .typeset i, .typeset .italic {
   font-style: italic; }
 .typeset small, .typeset .caption {
