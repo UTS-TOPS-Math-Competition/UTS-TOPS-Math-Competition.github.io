@@ -36,4 +36,5 @@ The Marathon Round is also done as a team. There will be **10 sets of 3 question
 your team solves sequentially (one set at a time). You'll have a total of **80 minutes** to
 complete this round.
 
-[add explanation of lock mechanism here]
+There is also a "lock" feature: Once you solve set #6, you can choose to lock it, which lets you
+continue to sets 7-10. If you choose not to lock, you have the option of reviewing sets 1-6, but you don't get access to sets 7-10.
