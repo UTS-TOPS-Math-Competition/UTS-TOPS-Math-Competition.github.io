@@ -420,7 +420,7 @@ html {
 
 body {
   font-size: 1.3333333333rem;
-  font-family: Georgia, serif;
+  font-family: Lato, serif;
   font-style: normal;
   font-weight: 400;
   line-height: 2rem; }
@@ -476,10 +476,10 @@ a {
       padding-top: 0.5657994737rem; } }
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
   color: #202020;
-  font-family: "Merriweather", serif;
+  font-family: Lato, serif;
   font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
   font-style: normal;
-  font-weight: 700; }
+  font-weight: 400; }
 .typeset h1, .typeset .alpha {
   line-height: 3rem;
   font-size: 2.3333333333rem;
@@ -714,7 +714,7 @@ a {
       .typeset dl dt, .typeset dl dd {
         margin-left: 0; } }
   .typeset dl dt {
-    font-weight: 700; }
+    font-weight: 400; }
   .typeset dl dd + dt {
     padding-top: 1rem; }
 .typeset table {
@@ -722,7 +722,7 @@ a {
   font-size: 1.1916666667rem;
   margin-bottom: -0.553135rem;
   padding-top: 0.553135rem;
-  font-family: "Merriweather", serif;
+  font-family: Lato, serif;
   font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
   font-style: normal;
   font-weight: 400;
@@ -774,12 +774,12 @@ a {
         margin-bottom: -0.5657994737rem;
         padding-top: 0.5657994737rem; } }
 .typeset b, .typeset strong, .typeset .bold {
-  font-weight: 700; }
+  font-weight: 400; }
 .typeset em, .typeset i, .typeset .italic {
   font-style: italic; }
 .typeset small, .typeset .caption {
   font-size: 1.0666666667rem;
-  font-family: "Merriweather", serif;
+  font-family: Lato, serif;
   font-style: normal;
   font-weight: 400; }
   @media screen and (min-width: 40em) {
@@ -1667,23 +1667,29 @@ pre code {
   .logo img {
     max-height: 3rem; }
 
-.item--current a {
-  color: #ff5722; }
-.item--current a:hover, .item--current a:active, .item--current a:focus {
-  color: #c41c00; }
+.item {
+  vertical-align: middle; }
+  .item a {
+    font-weight: 400; }
+  .item--current a {
+    color: #ff5722; }
+  .item--current a:hover, .item--current a:active, .item--current a:focus {
+    color: #c41c00; }
 
-.home-buttons .mdl-button {
+.my-mdl-button .mdl-button {
   line-height: 1.2;
-  min-width: 120px;
-  margin: 5px 5px;
-  height: 40px; }
-.home-buttons a:focus, .home-buttons a:hover:focus, .home-buttons button:focus, .home-buttons button:hover:focus {
+  height: 40px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: none;
+  border-radius: 1000px; }
+.my-mdl-button a:focus, .my-mdl-button a:hover:focus, .my-mdl-button button:focus, .my-mdl-button button:hover:focus {
   outline: none;
   box-shadow: inset 0 0 0 2rem rgba(0, 0, 0, 0.15); }
 
-.mdl-button {
-  text-transform: none;
-  font-size: 16px; }
+.home-button .mdl-button {
+  min-width: 120px;
+  margin: 5px 5px; }
 
 html {
   scroll-behavior: smooth; }

@@ -14,10 +14,17 @@
       </li>
     {% endfor %}
 
-	<li class="item item--nav">
-	  {% include reg-link.html text="Register" %}
+	<li class="item item--nav my-mdl-button">
+	  <a href="{{ site.reg-link }}" target="_blank" style="display: inline-block;">
+		<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored
+		mdl-js-ripple-effect" style="padding: 0 25px;">
+		  Sign up
+		</button>
+	  </a>
 	</li>
+
   </ul>
+
   <button class="button  button--nav" aria-label="Menu toggle">
     {% include icon.html id="nav" title="Menu" %}
   </button>

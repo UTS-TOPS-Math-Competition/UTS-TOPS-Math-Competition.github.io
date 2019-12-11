@@ -11,6 +11,21 @@ $linkColour: #ff5722;
 $hoverColour: #c41c00;
 $focusColour: #ff5722;
 
+$bodytype: (
+  font-family: "Lato, serif",
+  regular: 400,
+  bold: 400,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: "Lato, serif",
+  regular: 400,
+  bold: 400,
+  cap-height: 0.75
+);
+
 @import "alembic";
 
 
@@ -43,6 +58,10 @@ $focusColour: #ff5722;
 }
 
 .item {
+  vertical-align: middle;
+  a {
+	font-weight: 400;
+  }
   &--current {
 	a {
 	  color: $linkColour;
@@ -53,12 +72,14 @@ $focusColour: #ff5722;
   }
 }
 
-.home-buttons {
+.my-mdl-button {
   .mdl-button {
 	line-height: 1.2;
-	min-width: 120px;
-	margin: 5px 5px;
 	height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: none;
+	border-radius: 1000px;
   }
   a:focus, a:hover:focus, button:focus, button:hover:focus {
 	outline: none;
@@ -66,9 +87,12 @@ $focusColour: #ff5722;
   }
 }
 
-.mdl-button {
-  text-transform: none;
-  font-size: 16px;
+
+.home-button {
+  .mdl-button {
+	min-width: 120px;
+	margin: 5px 5px;
+  }
 }
 
 html {
