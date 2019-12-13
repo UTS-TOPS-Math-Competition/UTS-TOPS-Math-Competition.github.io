@@ -36,5 +36,6 @@ The Marathon Round is also done as a team. There will be **10 sets of 3 question
 your team solves sequentially (one set at a time). You'll have a total of **80 minutes** to
 complete this round.
 
-There is also a "lock" feature: You can choose to lock sets 7-10, which allows you to return to
-sets 1-6 and resubmit any answers if necessary, at the cost of not getting access to sets 7-10.
+Once you submit set 10, you return to set 1 and get a second chance to resubmit any answers you 
+think were incorrect. An answer submitted in this second stage will override the original answer
+given, and will only be worth half the points, if correct.
