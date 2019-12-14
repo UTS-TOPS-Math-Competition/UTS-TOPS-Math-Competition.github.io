@@ -28,6 +28,7 @@ permalink: pretty
 logo: "/images/UTMC-Navy-Cropped.png"
 reg-link: "https://utmc.typeform.com/to/mHTwSg"
 email: "utmcstaff@gmail.com"
+google_analytics: "UA-154577849-1"
 
 # Header nav
 navigation_header:
