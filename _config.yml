@@ -38,4 +38,6 @@ navigation_header:
   url: /rules/
 - title: Staff
   url: /staff/
+- title: Awardds
+  url: /scoring/
 
