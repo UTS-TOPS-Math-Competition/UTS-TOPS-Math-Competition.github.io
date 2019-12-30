@@ -1,11 +1,18 @@
 ---
-title: Scoring
+title: Awards
 ---
 
-## Weights
-Every problem will be assigned a **weight**. This weight will essentially be the "value" of the question in "points" (for example, a problem with a weight of **3** would be worth 3 points, while a problem with a weight of **5** would be worth 5 points). In general, the more difficult a problem is, the more weight it will be given.
+## Award Categories
+There will be **2** categories for awards: Top Contestants, and Sweepstakes. Top Contestants will be a strictly individual award, while Sweepstakes will reflect the overall performance of the entire team. Note that both categories will be separated between the Junior and Senior divisions, although both divisions will share an award ceremony.
 
-Note that because no problems will be proof-based, there is **no possibility for partial marks**. In fact, the answer sheets provided should be kept as clean as possible to avoid any confusion regarding the problems.
+## Prizes
+For each of the aforementioned categories (Junior Top Contestants, Senior Top Contestants, Junior Sweepstakes, Senior Sweepstakes), the following prizes will be awarded:
 
-## Point Scoring
-For every section, the **index** of a contestant would be the total amount of points they are awarded. We will then calculate your score as follows:
+**100** dollars for the *first* place individual/team in the category.
+**50** dollars for the *second* place individual/team in the category.
+**25** dollars for the *third* place individual/team in the category.
+
+In addition, all participants will receive participation gifts during the contest. These gifts may include stationery, pencil cases, and puzzles!
+
+## Scoring
+Scoring details are listed in the pdf linked below.
