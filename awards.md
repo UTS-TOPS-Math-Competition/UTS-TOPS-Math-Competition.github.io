@@ -8,11 +8,11 @@ There will be **2** categories for awards: Top Contestants, and Sweepstakes. Top
 ## Prizes
 For each of the aforementioned categories (Junior Top Contestants, Senior Top Contestants, Junior Sweepstakes, Senior Sweepstakes), the following prizes will be awarded:
 
-**100** dollars for the *first* place individual/team in the category.
+**100** dollars for the **first** place individual/team in the category.
 
-**50** dollars for the *second* place individual/team in the category.
+**50** dollars for the **second** place individual/team in the category.
 
-**25** dollars for the *third* place individual/team in the category.
+**25** dollars for the **third** place individual/team in the category.
 
 In addition, all participants will receive participation gifts during the contest. These gifts may include stationery, pencil cases, and puzzles!
 
