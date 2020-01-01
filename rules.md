@@ -1,5 +1,5 @@
 ---
-title: Contest Rules
+title: Contest Format
 ---
 
 ## Teams
@@ -45,6 +45,3 @@ given, and will only be worth half the points, if correct. A few examples of how
 2. If you go back to set 1, which was originally completely correct, and resumit an incorrect answer for the first question, you will now have **0** points for that question (instead of the given weight).
 
 3. If you go back to set 1, which originally contained an incorrect first question, and then submitted another incorrect response to the first question, your score would remain the same for that question.
-
-## Acceptable Answers
-A guideline towards which answers are accepted on the exam are provided below:
