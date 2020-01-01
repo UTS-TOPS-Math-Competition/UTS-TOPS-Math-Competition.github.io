@@ -5,7 +5,7 @@ title: Rules
 ## General Guidelines
 A few basic guidelines to be followed:
 1. Do not flip over the contest page until you are told to begin.
-2. 
+2. Write all your answers in the answer sheet provided. If your answers are written anywhere else,
 If any of these guidelines are broken, the individual/team that has broken the rule will receive an automatic **0** points for that round. They will be informed of this, and may still participate in the round (without gaining any points). This will not affect their score in other rounds.
 
 ## Mathematical Aids
