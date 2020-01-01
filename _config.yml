@@ -36,6 +36,8 @@ navigation_header:
   url: /
 - title: Rules
   url: /rules/
+- title: Format
+  url: /format/
 - title: Staff
   url: /staff/
 - title: Awards
