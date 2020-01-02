@@ -17,4 +17,4 @@ For each of the aforementioned categories (Junior Top Contestants, Senior Top Co
 In addition, all participants will receive participation gifts during the contest. These gifts may include stationery, pencil cases, and puzzles!
 
 ## Scoring
-Scoring details are listed in the pdf linked below.
+The scoring procedure is described [here](/files/UTMC_Official_Scoring_Guidelines.pdf).

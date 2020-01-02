@@ -42,4 +42,6 @@ navigation_header:
   url: /staff/
 - title: Awards
   url: /awards/
+- title: Archive
+  url: /archive/
 
