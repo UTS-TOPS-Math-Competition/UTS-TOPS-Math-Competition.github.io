@@ -1690,6 +1690,18 @@ pre code {
 .home-button .mdl-button {
   min-width: 120px;
   margin: 5px 5px; }
+.home-button .a {
+  display: inline-block; }
+
+.sponsors-container {
+  display: flex; }
+
+.sponsors-item {
+  margin: auto;
+  padding: 4%; }
+  .sponsors-item img {
+    height: auto;
+    width: 100%; }
 
 html {
   scroll-behavior: smooth; }

@@ -93,24 +93,25 @@ $headingtype: (
 	min-width: 120px;
 	margin: 5px 5px;
   }
+  .a {
+	display: inline-block;
+  }
+}
+
+.sponsors-container {
+  display: flex;
+}
+
+.sponsors-item {
+  margin: auto;
+  padding: 4%;
+  img {
+    height: auto;
+    width: 100%;
+  }
 }
 
 html {
   scroll-behavior: smooth;
-}
-
-a:focus, a:hover:focus,
-button:focus,
-button:hover:focus,
-.button:focus,
-.button:hover:focus,
-input:focus,
-input:hover:focus,
-textarea:focus,
-textarea:hover:focus,
-select:focus,
-select:hover:focus {
-  //box-shadow: 0 0 0 2px $focusColour;
-  //outline: none;
 }
 
