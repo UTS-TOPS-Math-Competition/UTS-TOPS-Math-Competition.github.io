@@ -14,6 +14,8 @@ A team competing in the Junior division must have all members be eligible
 (i.e. grade 9 or below), teams with a mix of Junior and Senior students will be placed in the
 Senior division.
 
+Note that all rounds except for the **Marathon Round** will be separated into these two divisions. All contestants will take the same Marathon Round, regardless of their division. Scoring, however, will still be separate for the marathon round between the two divisions.
+
 ## Rounds
 The competition consists of 4 rounds: Numerical, Geometry, Team, and Marathon. All questions are
 short answer (i.e. single-value answers, no proofs). Note that every question will be **weighted a certain amount of points**. This amount will be displayed at the beginning of the question in brackets (i.e. [5]). For more information on how the scoring system works, please refer to the **Scoring** page of this website.
