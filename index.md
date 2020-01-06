@@ -3,18 +3,12 @@ feature_text:
   <h1> UTMC </h1>
   <h2> A team math contest for high school students </h2>
 home_page: true
-feature_buttons:
-  - text: "Learn More"
-    link: "/info/"
-  - text: "Sign Up!"
-    link: "/register/"
 feature_image: "/images/GeometricGradientBlueGreen.jpg"
 ---
 
-<div id="about">
-<h1>About</h1>
-</div>
+<div id="about"></div>
 
+# About
 The UTMC is a high school math competition for students in the GTA, organized by students at
 [UTS](https://utschools.ca) and [TOPS](http://www.topsprogram.ca).
 
