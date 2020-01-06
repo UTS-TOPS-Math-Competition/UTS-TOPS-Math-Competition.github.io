@@ -2,11 +2,14 @@
 title: Awards
 ---
 
-## Award Categories
-There will be **2** categories for awards: Top Contestants, and Sweepstakes. Top Contestants will be a strictly individual award, while Sweepstakes will reflect the overall performance of the entire team. Note that both categories will be separated between the Junior and Senior divisions, although both divisions will share an award ceremony.
+## Categories
+There will be 4 award categories: Junior Individuals, Junior Teams, Senior Individuals,
+and Senior Teams. The individual awards are solely based on an individual's performance on the
+Numerical and Geometry Rounds, while the team awards reflect the overall performance of the
+entire team.
 
 ## Prizes
-For each of the aforementioned categories (Junior Top Contestants, Senior Top Contestants, Junior Sweepstakes, Senior Sweepstakes), the following prizes will be awarded:
+For each of the categories listed above, the following prizes will be awarded:
 
 **100** dollars for the **first** place individual/team in the category.
 

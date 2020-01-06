@@ -34,14 +34,14 @@ google_analytics: "UA-154577849-1"
 navigation_header:
 - title: Home
   url: /
-- title: Rules
-  url: /rules/
 - title: Format
   url: /format/
-- title: Staff
-  url: /staff/
 - title: Awards
   url: /awards/
+- title: Rules
+  url: /rules/
 - title: Archive
   url: /archive/
+- title: Staff
+  url: /staff/
 
