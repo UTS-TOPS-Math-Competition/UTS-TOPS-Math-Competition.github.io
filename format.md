@@ -22,7 +22,7 @@ Scoring, however, will still be separate for the marathon round between the two 
 The competition consists of 4 rounds: Numerical, Geometry, Team, and Marathon. All questions
 are short answer (i.e. single-value answers, no proofs). Each question has its own point-value,
 which is used to calculate the total score. For more information on how the scoring works,
-please refer to the [scoring procedure](/files/UTMC_Official_Scoring_Guidelines.pdf)
+please refer to the [scoring procedure](/files/UTMC_Scoring_Guidelines.pdf)
 
 ### Numerical Round
 This is an individual round, where you get **10 questions** and **60 minutes** to solve as many

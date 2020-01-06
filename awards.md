@@ -20,4 +20,4 @@ For each of the categories listed above, the following prizes will be awarded:
 In addition, all participants will receive participation gifts during the contest. These gifts may include stationery, pencil cases, and puzzles!
 
 ## Scoring
-The scoring procedure is described [here](/files/UTMC_Official_Scoring_Guidelines.pdf).
+The scoring procedure is described [here](/files/UTMC_Scoring_Guidelines.pdf).
