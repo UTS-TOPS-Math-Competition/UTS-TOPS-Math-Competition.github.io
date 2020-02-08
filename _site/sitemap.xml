@@ -16,6 +16,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/reg_closed/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/rules/</loc>
 </url>
 <url>

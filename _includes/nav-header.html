@@ -10,12 +10,16 @@
       {% endif %}
 
       <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
+        <a href="{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endfor %}
 
 	<li class="item item--nav my-mdl-button">
-	  <a href="{{ site.reg-link }}" target="_blank" style="display: inline-block;">
+	{% if site.registration_open %}
+	  <a href="{{ site.reg_link }}" target="_blank" style="display: inline-block;">
+	{% else %}
+	  <a href="{{ site.reg_closed_url }}" style="display: inline-block;">
+	{% endif %}
 		<button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored
 		mdl-js-ripple-effect" style="padding: 0 25px;">
 		  Sign up

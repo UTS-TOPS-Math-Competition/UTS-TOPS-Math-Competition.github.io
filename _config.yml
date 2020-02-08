@@ -26,9 +26,10 @@ title: 'UTMC'
 description: 'UTS-TOPS Math Competition'
 permalink: pretty
 logo: "/images/UTMC-Navy-Cropped.png"
-reg-link: "https://utmc.typeform.com/to/mHTwSg"
+reg_link: "https://utmc.typeform.com/to/mHTwSg"
 email: "utmcstaff@gmail.com"
 google_analytics: "UA-154577849-1"
+registration_open: false
 
 # Header nav
 navigation_header:
@@ -45,3 +46,4 @@ navigation_header:
 - title: Staff
   url: /staff/
 
+reg_closed_url: /reg_closed/

@@ -1,5 +1,11 @@
 <div class="home-button my-mdl-button">
-  <a href="{{ site.reg-link }}" target="_blank" rel="noopener noreferrer">
+
+{% if site.registration_open %}
+  <a href="{{ site.reg_link }}" target="_blank" rel="noopener noreferrer">
+{% else %}
+  <a href="{{ site.reg_closed_url }}">
+{% endif %}
+
     <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored
 		mdl-js-ripple-effect" style="border-radius: 1000px;">
 	  Sign up!

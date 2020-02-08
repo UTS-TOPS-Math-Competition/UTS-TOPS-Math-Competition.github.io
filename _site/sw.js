@@ -1,8 +1,8 @@
-const version = '20200106023746';
+const version = '20200208000911';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/archive/","/awards/","/contact/","/format/","/","/rules/","/staff/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/images/UTMC-Navy-Cropped.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/archive/","/awards/","/contact/","/format/","/","/reg_closed/","/rules/","/staff/","/assets/styles.css","/manifest.json","/assets/search.json","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","/images/UTMC-Navy-Cropped.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
