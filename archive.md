@@ -2,13 +2,17 @@
 title: Archive
 ---
 
-UTMC 2020 will be the first ever UTMC! This means there aren't any past contests yet, but you can use these sample questions as practice. 
+Here, you can find tests from past UTMC contests.
 
-Note that these practice rounds are about as difficult as a Senior Numerical/Geometry round would be in terms of difficulty progression - Junior versions would be about two questions easier (one question easier on these samples).
+## UTMC 2020
 
-## Numerical Round
-[Sample Problems](/files/UTMC_Sample_Numerical_Round.pdf)
+[Junior Individual Round](/files/UTMC_2020_Junior_Indiv.pdf){:target="_blank"}
 
-## Geometry Round
-[Sample Problems](/files/UTMC_Sample_Geometry_Round.pdf)
+[Senior Individual Round](/files/UTMC_2020_Senior_Indiv.pdf){:target="_blank"}
+
+[Junior Team Round](/files/UTMC_2020_Junior_Team.pdf){:target="_blank"}
+
+[Senior Team Round](/files/UTMC_2020_Senior_Team.pdf){:target="_blank"}
+
+[Marathon Round](/files/UTMC_2020_Marathon.pdf){:target="_blank"}
 
