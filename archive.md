@@ -14,13 +14,13 @@ Here, you can find tests from past UTMC contests.
 
 [Senior Individual Round](/files/UTMC_2020_Senior_Indiv.pdf){:target="_blank"}
 
-[Senior Individual Round Solutions](/files/UTMC_Senior_Individual_Round_Solutions.pdf)({:target="_blank"}
+[Senior Individual Round Solutions](/files/UTMC_Senior_Individual_Round_Solutions.pdf){:target="_blank"}
 
 
 
 [Junior Team Round](/files/UTMC_2020_Junior_Team.pdf){:target="_blank"}
 
-[Junior Team Round Solutions](/files/UTMC_Junior_Team_Round_Solutions.pdf):target="_blank"}
+[Junior Team Round Solutions](/files/UTMC_Junior_Team_Round_Solutions.pdf){:target="_blank"}
 
 
 
