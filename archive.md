@@ -34,3 +34,8 @@ Here, you can find tests from past UTMC contests.
 
 [Marathon Round Solutions](/files/UTMC_Marathon_Round_Solutions(1).pdf){:target="_blank"}
 
+
+
+
+[Results](https://docs.google.com/spreadsheets/d/1D2KUVXL0Cw7tXBMeFg4GH8s4UeD2XLR9Jv-ra0F_eLA/edit?usp=sharing)
+
