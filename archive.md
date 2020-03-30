@@ -2,7 +2,7 @@
 title: Archive
 ---
 
-Here, you can find tests from past UTMC contests.
+Here, you can find tests and results from past UTMC contests.
 
 ## UTMC 2020
 
