@@ -16,7 +16,7 @@ each round [here](/format/).
 The contest is open to everyone, and participation is **free**, so
 {% include reg-link.html text="sign up" %} now! Food will be provided, as well as [awards](/awards/) for the top contestants.
 
-UTMC 2020 was be held on **Saturday, February 22**, from 9:30 AM to 5:30 PM at UTS,
+UTMC 2020 was held on **Saturday, February 22**, from 9:30 AM to 5:30 PM at UTS,
 **30 Humbert Street**. Thank you for your participation this year, and stay tuned for UTMC 2021!
 
 <div class="map">
