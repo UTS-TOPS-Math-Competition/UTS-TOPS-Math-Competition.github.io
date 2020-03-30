@@ -13,5 +13,5 @@ Here, you can find tests and results from past UTMC contests.
 | Marathon | [Problems](/files/UTMC_2020_Marathon.pdf){:target="_blank"} | [Solutions](/files/UTMC_Marathon_Round_Solutions(1).pdf){:target="_blank"}
 
 
-[Final Team Results](https://docs.google.com/spreadsheets/d/1D2KUVXL0Cw7tXBMeFg4GH8s4UeD2XLR9Jv-ra0F_eLA/edit?usp=sharing)
+[Overall Results](https://docs.google.com/spreadsheets/d/1D2KUVXL0Cw7tXBMeFg4GH8s4UeD2XLR9Jv-ra0F_eLA/edit?usp=sharing)
 
