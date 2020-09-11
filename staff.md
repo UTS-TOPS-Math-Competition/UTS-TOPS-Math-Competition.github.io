@@ -6,8 +6,6 @@ title: Meet The Team
 - Eric Shen
 
 ### Organizing / Outreach Team
-- Andrew Liang
-- Anna Krokhine
 - Daniel Yang
 - Ray Chen
 - Simhon Chourasia
@@ -16,7 +14,6 @@ title: Meet The Team
 - Daniel Yang
 - David Tang
 - Ethan Liu
-- Howard Halim
 - Michael Li
 
 ### Webmaster
